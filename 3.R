@@ -1,5 +1,5 @@
-install.packages('PogromcyDanuch')
-library(PogromcyDanuch)
+install.packages('PogromcyDanych')
+library(PogromcyDanych)
 library(tibble)
 library(tidyr)
 library(dplyr)
